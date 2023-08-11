@@ -1,6 +1,6 @@
 # Gradle
 build
-gradle.properties
+# gradle.properties
 .gradle
 local.properties
 out
